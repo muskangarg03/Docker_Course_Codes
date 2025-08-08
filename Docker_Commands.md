@@ -1,4 +1,4 @@
-# Lecture - 328 (Docker Commands)
+# Lecture - Docker Commands
 
 This document provides a list of basic Docker CLI commands used in the lecture.
 
