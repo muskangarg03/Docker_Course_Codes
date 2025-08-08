@@ -1,4 +1,4 @@
-# Lecture - 335 (Docker Compose)
+# Lecture - Docker Compose
 
 This document provides a list of basic Docker CLI commands used in the lecture.
 
