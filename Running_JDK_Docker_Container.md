@@ -1,4 +1,4 @@
-# Lecture - 330 (Running JDK Docker Container)
+# Lecture - Running JDK Docker Container
 
 This document provides a list of basic Docker CLI commands used in the lecture.
 
