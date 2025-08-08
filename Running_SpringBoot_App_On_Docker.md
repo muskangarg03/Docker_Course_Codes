@@ -1,4 +1,4 @@
-# Lecture - 327 (Running SpringBoot App on Docker)
+# Lecture - Running SpringBoot App on Docker
 
 This document provides a list of basic Docker CLI commands used in the lecture.
 
