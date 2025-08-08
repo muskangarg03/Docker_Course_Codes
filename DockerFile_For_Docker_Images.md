@@ -1,4 +1,4 @@
-# Lecture - 327 (Running First Container)
+# Lecture - Running First Container
 
 This document provides a list of basic Docker CLI commands used in the lecture.
 
