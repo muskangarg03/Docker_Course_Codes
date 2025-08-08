@@ -1,4 +1,4 @@
-# Lecture - 336 (Running Multiple Containers)
+# Lecture - Running Multiple Containers
 
 This document provides a list of basic Docker CLI commands used in the lecture.
 
